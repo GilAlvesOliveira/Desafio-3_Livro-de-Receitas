@@ -102,11 +102,30 @@ src/
 
 - Listagem de receitas
 - Busca por nome
-- Filtro por categoria
-- Navegação entre páginas
-- Detalhes completos da receita
-- Vídeo de preparo incorporado
+- Filtro por categoria com estado ativo
+- Ordenação alfabética
+- Navegação entre páginas com React Router
+- Página de detalhe com:
+  - imagem
+  - categoria e área
+  - instruções
+  - ingredientes
+  - vídeo da receita
+- Navegação por categoria a partir do detalhe
+- Tratamento de loading e erro
 - Interface responsiva
+
+## Deploy:
+https://desafio-3-livro-de-receitas.vercel.app/
+
+## 📸 Screenshots
+
+### Desktop
+![Desktop](./public/screenshots/desktop.png)
+
+### Mobile
+![Mobile](./public/screenshots/mobile.png)
+
 
 ## 📌 Observações
 
